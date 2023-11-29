@@ -1,4 +1,9 @@
 # Linear Search and Binary search
+Name : Divya R V
+
+Reference No : 23014030
+
+Department : CSE(CS)
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
